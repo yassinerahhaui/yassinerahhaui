@@ -22,7 +22,7 @@
 ---
 
 ## 👋 About me
-- Software Engineer • Talent at Zone 01 Oujda
+- Junior developer • Talent at Zone 01 Oujda
 - I build performant Go backends, modern Next.js apps, and explore Rust for systems/tools
 - I like clean code, DX, and delightful UI/UX
 
