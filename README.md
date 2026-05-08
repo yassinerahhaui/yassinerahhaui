@@ -6,7 +6,7 @@
 <!-- Typing -->
 <p align="center">
   <a href="https://yrcode.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Go+%E2%80%A2+Next.js+%E2%80%A2+Rust+Java+%E2%80%A2+TypeScript+SpringBoot;Full‑stack+%26+Mobile+Developer;Building+fast+APIs%2C+clean+UIs%2C+and+useful+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Go+%E2%80%A2+Next.js+%E2%80%A2+Rust+%E2%80%A2+Java+%E2%80%A2+TypeScript+%E2%80%A2+SpringBoot;Full‑stack+%26+Mobile+Developer;Building+fast+APIs%2C+clean+UIs%2C+and+useful+tools" alt="Typing SVG" />
   </a>
 </p>
 
