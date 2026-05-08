@@ -12,7 +12,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://yrcode.tech"><img src="-browhttps://img.shields.io/badge/Portfolio-yrcode.tech-0072FF?style=for-the-badge&logo=firefoxser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://yrcode.tech"><img src="https://img.shields.io/badge/Portfolio-yrcode.tech-0072FF?style=for-the-badge&logo=firefoxser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yassinerahhaui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=yassinerahhaui&style=for-the-badge&color=0aa1ff" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-✔-28a745?style=for-the-badge" alt="Open to Work"/>
