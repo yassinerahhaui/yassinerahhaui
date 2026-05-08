@@ -5,14 +5,14 @@
 
 <!-- Typing -->
 <p align="center">
-  <a href="https://yrcode.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Go+%E2%80%A2+Next.js+%E2%80%A2+Rust+%E2%80%A2+TypeScript;Full‑stack+%26+Mobile+Developer;Building+fast+APIs%2C+clean+UIs%2C+and+useful+tools" alt="Typing SVG" />
+  <a href="https://yrcode.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Go+%E2%80%A2+Next.js+%E2%80%A2+Rust+Java+%E2%80%A2+TypeScript+SpringBoot;Full‑stack+%26+Mobile+Developer;Building+fast+APIs%2C+clean+UIs%2C+and+useful+tools" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://yrcode.me"><img src="https://img.shields.io/badge/Portfolio-yrcode.tech-0072FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://yrcode.tech"><img src="-browhttps://img.shields.io/badge/Portfolio-yrcode.tech-0072FF?style=for-the-badge&logo=firefoxser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yassinerahhaui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=yassinerahhaui&style=for-the-badge&color=0aa1ff" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-✔-28a745?style=for-the-badge" alt="Open to Work"/>
