@@ -12,11 +12,11 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://yrcode.me"><img src="https://img.shields.io/badge/Portfolio-yrcode.me-0072FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://yrcode.me"><img src="https://img.shields.io/badge/Portfolio-yrcode.tech-0072FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yassinerahhaui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=yassinerahhaui&style=for-the-badge&color=0aa1ff" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-✔-28a745?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Location-Oujda%2C%20Morocco-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location%2C%20Morocco-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
 ---
@@ -28,17 +28,17 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,js,next,react,angular,html,css,scss,django,ionic&theme=light" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,js,java,next,react,angular,html,css,scss,django,spring-boot&theme=light" alt="Skills" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,redis,vercel&theme=light" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,redis,vercel,minio-s3&theme=light" alt="Tools" />
 </p>
 
 ## ✨ Highlights
 - Go: REST/JSON APIs, concurrency patterns, clean architecture
 - Next.js: app router, server actions, API routes, ISR/SSR
 - Rust: CLI/tools, learning systems programming for speed and safety
-- Also worked with: Angular, React, Django, Ionic
+- Also worked with: Angular, React, Django, SpringBoot
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -82,7 +82,7 @@
 </p>
 
 ## 🌐 Links
-- Portfolio: https://yrcode.me
+- Portfolio: https://yrcode.tech
 - LinkedIn: https://www.linkedin.com/in/yassinerahhaui
 - GitHub: https://github.com/yassinerahhaui
 
