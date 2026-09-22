@@ -73,12 +73,12 @@
 
 ## 🧩 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yassinerahhaui&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yassinerahhaui&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="Trophies"/>
 </p>
 
 ## 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinerahhaui&theme=github-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinerahhaui&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ## 🌐 Links
