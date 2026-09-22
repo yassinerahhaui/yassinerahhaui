@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Yassine%20Rahhaoui&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Zone%2001%20Oujda&descAlign=50&descAlignY=65" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Yassine%20Rahhaoui&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Junior%20Software%20Engineer%20%7C%20Zone%2001%20Oujda&descAlign=50&descAlignY=65" alt="Header"/>
 </p>
 
 <!-- Typing -->
 <p align="center">
   <a href="https://yrcode.tech">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Go+%E2%80%A2+Next.js+%E2%80%A2+Rust+%E2%80%A2+TypeScript;Full%E2%80%91stack+%26+Mobile+Developer;Building+fast+APIs%2C+clean+UIs%2C+and+useful+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Junior+Software+Engineer;Building+Fast+APIs+(Go,+Node);Crafting+Modern+UIs+(Next.js,+Angular);Exploring+Systems+(Rust,+Java)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,33 +14,45 @@
 <p align="center">
   <a href="https://yrcode.tech"><img src="https://img.shields.io/badge/Portfolio-yrcode.tech-0072FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yassinerahhaui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yassinerahhaui&style=for-the-badge&color=0aa1ff" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-✔-28a745?style=for-the-badge" alt="Open to Work"/>
   <img src="https://img.shields.io/badge/Location%2C%20Morocco-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
-## 👋 About me
-- Junior developer • Talent at Zone 01 Oujda
-- I build performant Go backends, modern Next.js apps, and explore Rust for systems/tools
-- I like clean code, DX, and delightful UI/UX
+## 👨‍💻 About Me
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,js,java,next,react,angular,html,css,scss,django,spring&theme=light" alt="Skills" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,mysql,redis,vercel,aws&theme=light" alt="Tools" />
-</p>
+I am a passionate **Junior Software Engineer** and a talent at **Zone 01 Oujda**. I enjoy building robust, real-time web applications and exploring low-level system tools. My goal is to write clean, maintainable code while constantly learning new technologies.
 
-## ✨ Highlights
-- Go: REST/JSON APIs, concurrency patterns, clean architecture
-- Next.js: app router, server actions, API routes, ISR/SSR
-- Rust: CLI/tools, learning systems programming for speed and safety
-- Also worked with: Angular, React, Django, SpringBoot
+Currently, I am building complex architectures, ranging from **Dockerized social networks** to **custom JavaScript frameworks** and **native Unix shells**, pushing myself to understand how things work under the hood.
+
+## 🛠️ Technical Stack
+
+**Core Languages:**
+<br>
+<img src="https://skillicons.dev/icons?i=go,rust,ts,js,java&theme=light" alt="Languages" />
+
+**Frontend & UI:**
+<br>
+<img src="https://skillicons.dev/icons?i=next,react,angular,tailwind,html,css&theme=light" alt="Frontend" />
+
+**Backend, Tools & DevOps:**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,postgres,mysql,redis,aws,git&theme=light" alt="Backend and DevOps" />
+
+---
+
+## 🚀 What I've Been Working On
+
+- **Backend & Real-Time:** Building REST APIs and real-time WebSocket engines using **Go (Golang)**.
+- **Frontend Development:** Crafting modern web apps with **Next.js** and **Angular**, and building a custom DOM-based JS framework from scratch.
+- **System Programming:** Learning low-level concepts by implementing native Unix shells in **Rust** and custom servers in **Java NIO**.
+- **DevOps:** Containerizing full-stack projects with **Docker** and managing database migrations.
+
+---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <picture>
     <source 
@@ -52,39 +64,13 @@
   </picture>
   <picture>
     <source 
-      srcset="https://streak-stats.demolab.com?user=yassinerahhaui&hide_border=true&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=320"
       media="(prefers-color-scheme: dark)" />
     <img 
-      src="https://streak-stats.demolab.com?user=yassinerahhaui&hide_border=true"
-      alt="GitHub streak" height="165"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&langs_count=6&card_width=320"
+      alt="Top Languages" height="165"/>
   </picture>
 </p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=445"
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&langs_count=8&card_width=445"
-      alt="Top Languages"/>
-  </picture>
-</p>
-
-## 🧩 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yassinerahhaui&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies"/>
-</p>
-
-## 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinerahhaui&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Activity Graph"/>
-</p>
-
-## 🌐 Links
-- Portfolio: https://yrcode.tech
-- LinkedIn: https://www.linkedin.com/in/yassinerahhaui
-- GitHub: https://github.com/yassinerahhaui
 
 <!-- Footer Wave -->
 <p>
