@@ -54,22 +54,8 @@ Currently, I am building complex architectures, ranging from **Dockerized social
 ## 📈 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=yassinerahhaui&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&rank_icon=percentile"
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=yassinerahhaui&show_icons=true&hide_title=true&hide_border=true&theme=default&rank_icon=percentile"
-      alt="GitHub stats" height="165"/>
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=320"
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&langs_count=6&card_width=320"
-      alt="Top Languages" height="165"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinerahhaui&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 <!-- Footer Wave -->
