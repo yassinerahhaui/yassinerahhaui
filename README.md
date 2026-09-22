@@ -73,12 +73,26 @@
 
 ## 🧩 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yassinerahhaui&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="Trophies"/>
+  <picture>
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=yassinerahhaui&theme=onedark&no-frame=true&no-bg=true&margin-w=10"
+      media="(prefers-color-scheme: dark)" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=yassinerahhaui&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+      alt="Trophies"/>
+  </picture>
 </p>
 
 ## 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinerahhaui&theme=github-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=yassinerahhaui&theme=react-dark&hide_border=true&area=true"
+      media="(prefers-color-scheme: dark)" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=yassinerahhaui&theme=github-compact&hide_border=true&area=true"
+      alt="Activity Graph"/>
+  </picture>
 </p>
 
 ## 🌐 Links
