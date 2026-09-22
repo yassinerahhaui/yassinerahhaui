@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Yassine%20Rahhaoui&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Junior%20Software%20Engineer%20%7C%20Java%20%26%20Angular&descAlign=50&descAlignY=65" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Yassine%20Rahhaoui&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Junior%20Software%20Engineer%20%7C%20Java%20and%20Angular&descAlign=50&descAlignY=65" alt="Header"/>
 </p>
 
 <!-- Typing -->
