@@ -51,5 +51,5 @@ I enjoy architecting scalable backend services and pairing them with responsive,
 
 <!-- Footer Wave -->
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,100:0072FF" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,100:0072FF" alt="Footer" width="100%"/>
 </p>
