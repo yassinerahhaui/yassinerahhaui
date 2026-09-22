@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Yassine%20Rahhaoui&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Junior%20Software%20Engineer%20%7C%20Zone%2001%20Oujda&descAlign=50&descAlignY=65" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Yassine%20Rahhaoui&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Junior%20Software%20Engineer%20%7C%20Java%20%26%20Angular&descAlign=50&descAlignY=65" alt="Header"/>
 </p>
 
 <!-- Typing -->
 <p align="center">
   <a href="https://yrcode.tech">
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Junior+Software+Engineer;Building+Fast+APIs+(Go,+Node);Crafting+Modern+UIs+(Next.js,+Angular);Exploring+Systems+(Rust,+Java)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Junior+Software+Engineer;Full-Stack+Java+%2F+Angular+Developer;Building+Robust+Backends+(Spring+Boot);Crafting+Modern+UIs+(Angular,+Tailwind)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,41 +22,32 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Junior Software Engineer** and a talent at **Zone 01 Oujda**. I enjoy building robust, real-time web applications and exploring low-level system tools. My goal is to write clean, maintainable code while constantly learning new technologies.
+I am a passionate **Junior Software Engineer** and a talent at **Zone 01 Oujda**, specializing in Full-Stack development with a strong focus on **Java** and **Angular**.
 
-Currently, I am building complex architectures, ranging from **Dockerized social networks** to **custom JavaScript frameworks** and **native Unix shells**, pushing myself to understand how things work under the hood.
+I enjoy architecting scalable backend services and pairing them with responsive, component-driven frontends. Recently, I have been focused on delivering end-to-end solutions, including multi-tenant SaaS platforms like FleetHub and GraphQL-powered student profile applications.
 
 ## 🛠️ Technical Stack
 
-**Core Languages:**
+**Core & Backend:**
 <br>
-<img src="https://skillicons.dev/icons?i=go,rust,ts,js,java&theme=light" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,go,postgres,mysql,redis&theme=light" alt="Backend" />
 
 **Frontend & UI:**
 <br>
-<img src="https://skillicons.dev/icons?i=next,react,angular,tailwind,html,css&theme=light" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,html,css&theme=light" alt="Frontend" />
 
-**Backend, Tools & DevOps:**
+**Tools & DevOps:**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,postgres,mysql,redis,aws,git&theme=light" alt="Backend and DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,aws&theme=light" alt="Tools" />
 
 ---
 
-## 🚀 What I've Been Working On
+## 🚀 Engineering Highlights
 
-- **Backend & Real-Time:** Building REST APIs and real-time WebSocket engines using **Go (Golang)**.
-- **Frontend Development:** Crafting modern web apps with **Next.js** and **Angular**, and building a custom DOM-based JS framework from scratch.
-- **System Programming:** Learning low-level concepts by implementing native Unix shells in **Rust** and custom servers in **Java NIO**.
-- **DevOps:** Containerizing full-stack projects with **Docker** and managing database migrations.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinerahhaui&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinerahhaui&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top Languages" height="165"/>
-</p>
+- **Full-Stack Integration:** Building robust platforms like **01Blog** utilizing **Java Spring Boot** for secure REST APIs (JWT auth, Role-based access) and connecting them to dynamic **Angular** interfaces.
+- **Advanced Frontend:** Developing responsive layouts, route guards, and complex architectures using **Angular**, **TypeScript**, **GraphQL**, and **Tailwind CSS / DaisyUI**.
+- **Backend Architecture:** Designing multi-tenant domain models, scalable database schemas (PostgreSQL), and building non-blocking asynchronous servers using **Java NIO**.
+- **Problem Solving & Core Java:** Mastered Object-Oriented Programming, Java Streams, and GoF Design Patterns through an intensive 60+ algorithmic challenge Piscine.
 
 <!-- Footer Wave -->
 <p>
